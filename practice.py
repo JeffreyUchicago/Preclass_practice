@@ -5,3 +5,5 @@ for num in range():
     print(i)
 
 # Now try to add more comments
+import numpy as np
+x = np.random.rand()
