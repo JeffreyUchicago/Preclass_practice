@@ -2,7 +2,7 @@
 # Editor: Jiangyu Zhao, Apr. 4th
 
 for num in range(10):
-    print(i)
+    print(num)
 
 # Generate a random variable called x
 import numpy as np
