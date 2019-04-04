@@ -4,7 +4,9 @@
 for num in range(10):
     print(i)
 
-# Now try to add more comments
+# Generate a random variable called x
 import numpy as np
 x = np.random.rand()
 print(x)
+
+# This time try to create a list with random walk results
